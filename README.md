@@ -1,4 +1,4 @@
-# al-harithiya-calculator
+# alharithiya-calculator
 <!DOCTYPE html>
 <html lang="ar">
 <head>
